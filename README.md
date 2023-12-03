@@ -1,6 +1,6 @@
 # Meditation
 ## Project Description
-A simple and convenient application for short meditations. 
+This is a simple and convenient application for short meditations. 
 
 Easy to use at any time and on any device.
 
